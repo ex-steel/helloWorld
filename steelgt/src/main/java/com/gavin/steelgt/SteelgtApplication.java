@@ -8,5 +8,6 @@ public class SteelgtApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SteelgtApplication.class, args);
+
 	}
 }
